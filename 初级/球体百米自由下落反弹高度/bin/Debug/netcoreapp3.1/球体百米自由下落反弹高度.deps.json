@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "球体百米自由下落反弹高度/1.0.0": {
+        "runtime": {
+          "球体百米自由下落反弹高度.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "球体百米自由下落反弹高度/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

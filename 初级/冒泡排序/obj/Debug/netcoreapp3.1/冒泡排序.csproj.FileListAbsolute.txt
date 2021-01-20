@@ -1,0 +1,13 @@
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.exe
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.deps.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.runtimeconfig.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.runtimeconfig.dev.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\bin\Debug\netcoreapp3.1\冒泡排序.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.csprojAssemblyReference.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.AssemblyInfoInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.AssemblyInfo.cs
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.csproj.CoreCompileInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\冒泡排序\obj\Debug\netcoreapp3.1\冒泡排序.genruntimeconfig.cache

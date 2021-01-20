@@ -1,0 +1,12 @@
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\bin\Debug\netcoreapp3.1\球体百米自由下落反弹高度.exe
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\bin\Debug\netcoreapp3.1\球体百米自由下落反弹高度.deps.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\bin\Debug\netcoreapp3.1\球体百米自由下落反弹高度.runtimeconfig.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\bin\Debug\netcoreapp3.1\球体百米自由下落反弹高度.runtimeconfig.dev.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\bin\Debug\netcoreapp3.1\球体百米自由下落反弹高度.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\bin\Debug\netcoreapp3.1\球体百米自由下落反弹高度.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\obj\Debug\netcoreapp3.1\球体百米自由下落反弹高度.AssemblyInfoInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\obj\Debug\netcoreapp3.1\球体百米自由下落反弹高度.AssemblyInfo.cs
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\obj\Debug\netcoreapp3.1\球体百米自由下落反弹高度.csproj.CoreCompileInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\obj\Debug\netcoreapp3.1\球体百米自由下落反弹高度.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\obj\Debug\netcoreapp3.1\球体百米自由下落反弹高度.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\球体百米自由下落反弹高度\obj\Debug\netcoreapp3.1\球体百米自由下落反弹高度.genruntimeconfig.cache

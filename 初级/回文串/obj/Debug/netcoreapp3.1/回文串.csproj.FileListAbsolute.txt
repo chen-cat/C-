@@ -1,0 +1,12 @@
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\bin\Debug\netcoreapp3.1\回文串.exe
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\bin\Debug\netcoreapp3.1\回文串.deps.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\bin\Debug\netcoreapp3.1\回文串.runtimeconfig.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\bin\Debug\netcoreapp3.1\回文串.runtimeconfig.dev.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\bin\Debug\netcoreapp3.1\回文串.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\bin\Debug\netcoreapp3.1\回文串.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\obj\Debug\netcoreapp3.1\回文串.AssemblyInfoInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\obj\Debug\netcoreapp3.1\回文串.AssemblyInfo.cs
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\obj\Debug\netcoreapp3.1\回文串.csproj.CoreCompileInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\obj\Debug\netcoreapp3.1\回文串.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\obj\Debug\netcoreapp3.1\回文串.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\初级\回文串\obj\Debug\netcoreapp3.1\回文串.genruntimeconfig.cache
