@@ -20,6 +20,29 @@ namespace 面向对象编程_定义类
         }
         //编程习惯上一般会把所有的字段设置成private,通过set方法去访问
         private float x, y, z,length;
+
+        //属性的定义和作用
+        public float X
+        {
+            set
+            {
+                //通过set方法，在设置值之前可以做一些判断，字段就无法做判断(作用1)
+                if (value>=0)
+                {
+                    x = value;
+                }
+                Console.WriteLine("属性中set块被调用");
+            }
+            //使用private设置属性的只读或者只写（作用2）
+            private get
+            {
+                Console.WriteLine("属性中get块被调用");
+                return x;
+            }
+        }
+
+        public string Name { get; set; }//这里我们没有定义字段name，但编译器会自动给我们提供一个字段来存储name
+
         //public float x, y, z;
         //如果我们直接在方法内部访问同名变量的时候，优先访问最近的（也就是行参）
         //我们可以通过this.表示访问的是类的字段或方法

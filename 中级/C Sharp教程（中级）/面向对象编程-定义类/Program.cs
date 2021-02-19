@@ -19,6 +19,11 @@ namespace 面向对象编程_定义类
             v1.SetY(2);
             v1.SetZ(2);
             Console.WriteLine(v1.Length());*/
+            v1.X = 1;//调用属性的set块
+            //Console.WriteLine(v1.X);//调用属性的get块
+
+            v1.Name = "啊澈是子由";
+            Console.WriteLine(v1.Name);
             Console.ReadLine();
         }
     }
