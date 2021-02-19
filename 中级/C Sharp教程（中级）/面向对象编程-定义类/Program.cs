@@ -13,11 +13,12 @@ namespace 面向对象编程_定义类
             customer1.show();
 
             Vector3 v1;
-            v1 = new Vector3();
-            v1.SetX(2);
+            v1 = new Vector3(2,2,2);
+            //使用构造函数后可以不使用set方法
+            /*v1.SetX(2);
             v1.SetY(2);
             v1.SetZ(2);
-            Console.WriteLine(v1.Length());
+            Console.WriteLine(v1.Length());*/
             Console.ReadLine();
         }
     }
