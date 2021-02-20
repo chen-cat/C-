@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "匿名类型", "匿名类�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面向对象编程_继承", "面向对象编程_继承\面向对象编程_继承.csproj", "{28905DF8-708B-44B1-BFB4-F9DBA475EB56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "密封类和密封方法", "密封类和密封方法\密封类和密封方法.csproj", "{218D695D-FB8B-49AA-8A32-7DD14E57DECB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "密封类和密封方法", "密封类和密封方法\密封类和密封方法.csproj", "{218D695D-FB8B-49AA-8A32-7DD14E57DECB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "子类的构造函数", "子类的构造函数\子类的构造函数.csproj", "{E93ADDAE-EAC7-433F-ACAD-095817C487FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "子类的构造函数", "子类的构造函数\子类的构造函数.csproj", "{E93ADDAE-EAC7-433F-ACAD-095817C487FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "定义和实现接口", "定义和实现接口\定义和实现接口.csproj", "{0A7947F8-B58A-4F1D-8E73-C13802A57D53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{E93ADDAE-EAC7-433F-ACAD-095817C487FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E93ADDAE-EAC7-433F-ACAD-095817C487FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E93ADDAE-EAC7-433F-ACAD-095817C487FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7947F8-B58A-4F1D-8E73-C13802A57D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7947F8-B58A-4F1D-8E73-C13802A57D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7947F8-B58A-4F1D-8E73-C13802A57D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7947F8-B58A-4F1D-8E73-C13802A57D53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
