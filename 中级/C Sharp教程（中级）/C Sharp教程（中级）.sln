@@ -9,7 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "异常处理（try、catch�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面向对象编程-定义类", "面向对象编程-定义类\面向对象编程-定义类.csproj", "{CB67B4CF-E3AA-4E91-BBC2-5708B9502FDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "匿名类型", "匿名类型\匿名类型.csproj", "{17225670-5B2A-4930-A7B2-6D3DF3CD7C63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "匿名类型", "匿名类型\匿名类型.csproj", "{17225670-5B2A-4930-A7B2-6D3DF3CD7C63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "面向对象编程_继承", "面向对象编程_继承\面向对象编程_继承.csproj", "{28905DF8-708B-44B1-BFB4-F9DBA475EB56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "密封类和密封方法", "密封类和密封方法\密封类和密封方法.csproj", "{218D695D-FB8B-49AA-8A32-7DD14E57DECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "子类的构造函数", "子类的构造函数\子类的构造函数.csproj", "{E93ADDAE-EAC7-433F-ACAD-095817C487FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{17225670-5B2A-4930-A7B2-6D3DF3CD7C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17225670-5B2A-4930-A7B2-6D3DF3CD7C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17225670-5B2A-4930-A7B2-6D3DF3CD7C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28905DF8-708B-44B1-BFB4-F9DBA475EB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28905DF8-708B-44B1-BFB4-F9DBA475EB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28905DF8-708B-44B1-BFB4-F9DBA475EB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28905DF8-708B-44B1-BFB4-F9DBA475EB56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218D695D-FB8B-49AA-8A32-7DD14E57DECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218D695D-FB8B-49AA-8A32-7DD14E57DECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218D695D-FB8B-49AA-8A32-7DD14E57DECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218D695D-FB8B-49AA-8A32-7DD14E57DECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93ADDAE-EAC7-433F-ACAD-095817C487FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93ADDAE-EAC7-433F-ACAD-095817C487FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93ADDAE-EAC7-433F-ACAD-095817C487FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93ADDAE-EAC7-433F-ACAD-095817C487FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

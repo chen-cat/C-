@@ -4,7 +4,7 @@ using System.Text;
 
 namespace 面向对象编程_继承
 {
-    class Boss:Enemy
+    class Boss : Enemy
     {
         public void Attack()
         {
@@ -20,6 +20,6 @@ namespace 面向对象编程_继承
         {
             Console.WriteLine("Boss正在跳跃");
         }
-        
+
     }
 }
