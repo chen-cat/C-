@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "泛型类和泛型函数/1.0.0": {
+        "runtime": {
+          "泛型类和泛型函数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "泛型类和泛型函数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
