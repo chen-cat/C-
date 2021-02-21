@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "列表List的创建和使用/1.0.0": {
+        "runtime": {
+          "列表List的创建和使用.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "列表List的创建和使用/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

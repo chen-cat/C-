@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "子类的构造函数", "�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "定义和实现接口", "定义和实现接口\定义和实现接口.csproj", "{0A7947F8-B58A-4F1D-8E73-C13802A57D53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习题", "练习题\练习题.csproj", "{D75CEC8E-8677-41F3-B9F4-D62E84CD864D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "练习题", "练习题\练习题.csproj", "{D75CEC8E-8677-41F3-B9F4-D62E84CD864D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "列表List的创建和使用", "列表List的创建和使用\列表List的创建和使用.csproj", "{D4020F9E-1B72-4EC0-BBD0-E0559B52CFE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{D75CEC8E-8677-41F3-B9F4-D62E84CD864D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D75CEC8E-8677-41F3-B9F4-D62E84CD864D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D75CEC8E-8677-41F3-B9F4-D62E84CD864D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4020F9E-1B72-4EC0-BBD0-E0559B52CFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4020F9E-1B72-4EC0-BBD0-E0559B52CFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4020F9E-1B72-4EC0-BBD0-E0559B52CFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4020F9E-1B72-4EC0-BBD0-E0559B52CFE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
