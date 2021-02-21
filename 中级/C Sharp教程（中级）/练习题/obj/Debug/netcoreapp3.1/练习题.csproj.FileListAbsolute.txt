@@ -1,0 +1,13 @@
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\bin\Debug\netcoreapp3.1\练习题.exe
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\bin\Debug\netcoreapp3.1\练习题.deps.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\bin\Debug\netcoreapp3.1\练习题.runtimeconfig.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\bin\Debug\netcoreapp3.1\练习题.runtimeconfig.dev.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\bin\Debug\netcoreapp3.1\练习题.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\bin\Debug\netcoreapp3.1\练习题.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\obj\Debug\netcoreapp3.1\练习题.csprojAssemblyReference.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\obj\Debug\netcoreapp3.1\练习题.AssemblyInfoInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\obj\Debug\netcoreapp3.1\练习题.AssemblyInfo.cs
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\obj\Debug\netcoreapp3.1\练习题.csproj.CoreCompileInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\obj\Debug\netcoreapp3.1\练习题.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\obj\Debug\netcoreapp3.1\练习题.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\中级\C Sharp教程（中级）\练习题\obj\Debug\netcoreapp3.1\练习题.genruntimeconfig.cache
