@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "练习题", "练习题\练�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "列表List的创建和使用", "列表List的创建和使用\列表List的创建和使用.csproj", "{D4020F9E-1B72-4EC0-BBD0-E0559B52CFE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型类和泛型函数", "泛型类和泛型函数\泛型类和泛型函数.csproj", "{04BFA483-AB9E-4FA5-8CBE-F9A0B26C09A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "泛型类和泛型函数", "泛型类和泛型函数\泛型类和泛型函数.csproj", "{04BFA483-AB9E-4FA5-8CBE-F9A0B26C09A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "使用泛型和索引器来实现MyList", "使用泛型和索引器来实现MyList\使用泛型和索引器来实现MyList.csproj", "{E227C6B0-C4CB-407E-A607-1D4614A53E08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{04BFA483-AB9E-4FA5-8CBE-F9A0B26C09A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04BFA483-AB9E-4FA5-8CBE-F9A0B26C09A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04BFA483-AB9E-4FA5-8CBE-F9A0B26C09A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E227C6B0-C4CB-407E-A607-1D4614A53E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E227C6B0-C4CB-407E-A607-1D4614A53E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E227C6B0-C4CB-407E-A607-1D4614A53E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E227C6B0-C4CB-407E-A607-1D4614A53E08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
