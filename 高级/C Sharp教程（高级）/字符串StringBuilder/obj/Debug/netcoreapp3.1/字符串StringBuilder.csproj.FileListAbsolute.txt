@@ -1,0 +1,12 @@
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\bin\Debug\netcoreapp3.1\字符串StringBuilder.exe
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\bin\Debug\netcoreapp3.1\字符串StringBuilder.deps.json
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\bin\Debug\netcoreapp3.1\字符串StringBuilder.runtimeconfig.json
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\bin\Debug\netcoreapp3.1\字符串StringBuilder.runtimeconfig.dev.json
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\bin\Debug\netcoreapp3.1\字符串StringBuilder.dll
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\bin\Debug\netcoreapp3.1\字符串StringBuilder.pdb
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\obj\Debug\netcoreapp3.1\字符串StringBuilder.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\obj\Debug\netcoreapp3.1\字符串StringBuilder.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\obj\Debug\netcoreapp3.1\字符串StringBuilder.csproj.CoreCompileInputs.cache
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\obj\Debug\netcoreapp3.1\字符串StringBuilder.dll
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\obj\Debug\netcoreapp3.1\字符串StringBuilder.pdb
+D:\C-\高级\C Sharp教程（高级）\字符串StringBuilder\obj\Debug\netcoreapp3.1\字符串StringBuilder.genruntimeconfig.cache

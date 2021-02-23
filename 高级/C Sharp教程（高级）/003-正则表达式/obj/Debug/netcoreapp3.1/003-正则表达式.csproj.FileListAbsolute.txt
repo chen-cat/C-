@@ -1,0 +1,12 @@
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.exe
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.deps.json
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.runtimeconfig.json
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.runtimeconfig.dev.json
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.dll
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.pdb
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.csproj.CoreCompileInputs.cache
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.dll
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.pdb
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.genruntimeconfig.cache

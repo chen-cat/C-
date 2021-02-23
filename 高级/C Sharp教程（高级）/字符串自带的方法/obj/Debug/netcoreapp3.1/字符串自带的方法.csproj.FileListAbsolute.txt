@@ -1,0 +1,13 @@
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\bin\Debug\netcoreapp3.1\字符串自带的方法.exe
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\bin\Debug\netcoreapp3.1\字符串自带的方法.deps.json
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\bin\Debug\netcoreapp3.1\字符串自带的方法.runtimeconfig.json
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\bin\Debug\netcoreapp3.1\字符串自带的方法.runtimeconfig.dev.json
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\bin\Debug\netcoreapp3.1\字符串自带的方法.dll
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\bin\Debug\netcoreapp3.1\字符串自带的方法.pdb
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\obj\Debug\netcoreapp3.1\字符串自带的方法.csprojAssemblyReference.cache
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\obj\Debug\netcoreapp3.1\字符串自带的方法.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\obj\Debug\netcoreapp3.1\字符串自带的方法.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\obj\Debug\netcoreapp3.1\字符串自带的方法.csproj.CoreCompileInputs.cache
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\obj\Debug\netcoreapp3.1\字符串自带的方法.dll
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\obj\Debug\netcoreapp3.1\字符串自带的方法.pdb
+D:\C-\高级\C Sharp教程（高级）\字符串自带的方法\obj\Debug\netcoreapp3.1\字符串自带的方法.genruntimeconfig.cache

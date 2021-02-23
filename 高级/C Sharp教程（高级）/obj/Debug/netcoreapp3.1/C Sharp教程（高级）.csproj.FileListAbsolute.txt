@@ -1,0 +1,4 @@
+D:\C-\高级\C Sharp教程（高级）\obj\Debug\netcoreapp3.1\C Sharp教程（高级）.csprojAssemblyReference.cache
+D:\C-\高级\C Sharp教程（高级）\obj\Debug\netcoreapp3.1\C Sharp教程（高级）.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\obj\Debug\netcoreapp3.1\C Sharp教程（高级）.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\obj\Debug\netcoreapp3.1\C Sharp教程（高级）.csproj.CoreCompileInputs.cache
