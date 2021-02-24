@@ -10,3 +10,4 @@ D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3
 D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.dll
 D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.pdb
 D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.genruntimeconfig.cache
+D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.csprojAssemblyReference.cache
