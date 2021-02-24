@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C Sharp教程（高级）", "C Sharp教程（高级）.csproj", "{A4D52AAB-9E7E-491E-AF94-612F914EB230}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-字符串String的方法", "字符串自带的方法\001-字符串String的方法.csproj", "{2CF6EF6C-5882-4BC1-BD32-F3EAF486B049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001-字符串String的方法", "字符串自带的方法\001-字符串String的方法.csproj", "{2CF6EF6C-5882-4BC1-BD32-F3EAF486B049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-字符串StringBuilder", "字符串StringBuilder\002-字符串StringBuilder.csproj", "{95B82BA6-92C6-4CE6-9B59-2F49066DC9F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002-字符串StringBuilder", "字符串StringBuilder\002-字符串StringBuilder.csproj", "{95B82BA6-92C6-4CE6-9B59-2F49066DC9F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-正则表达式", "003-正则表达式\003-正则表达式.csproj", "{4DD52C60-4D77-4313-B40F-D054BA4D6A6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003-正则表达式", "003-正则表达式\003-正则表达式.csproj", "{4DD52C60-4D77-4313-B40F-D054BA4D6A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-委托", "004-委托\004-委托.csproj", "{021FF033-3B7E-4736-8449-2B6DBD199615}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4DD52C60-4D77-4313-B40F-D054BA4D6A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DD52C60-4D77-4313-B40F-D054BA4D6A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DD52C60-4D77-4313-B40F-D054BA4D6A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021FF033-3B7E-4736-8449-2B6DBD199615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021FF033-3B7E-4736-8449-2B6DBD199615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021FF033-3B7E-4736-8449-2B6DBD199615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021FF033-3B7E-4736-8449-2B6DBD199615}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
