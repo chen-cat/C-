@@ -10,3 +10,4 @@ D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netco
 D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netcoreapp3.1\006-升级版冒泡排序.dll
 D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netcoreapp3.1\006-升级版冒泡排序.pdb
 D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netcoreapp3.1\006-升级版冒泡排序.genruntimeconfig.cache
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netcoreapp3.1\006-升级版冒泡排序.csprojAssemblyReference.cache
