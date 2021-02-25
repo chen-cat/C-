@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002-字符串StringBuilder"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003-正则表达式", "003-正则表达式\003-正则表达式.csproj", "{4DD52C60-4D77-4313-B40F-D054BA4D6A6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-委托", "004-委托\004-委托.csproj", "{021FF033-3B7E-4736-8449-2B6DBD199615}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004-委托", "004-委托\004-委托.csproj", "{021FF033-3B7E-4736-8449-2B6DBD199615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-Action和Func委托", "Action委托\005-Action和Func委托.csproj", "{94B29198-EBB8-430C-976F-9B8C32722AC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{021FF033-3B7E-4736-8449-2B6DBD199615}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021FF033-3B7E-4736-8449-2B6DBD199615}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{021FF033-3B7E-4736-8449-2B6DBD199615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B29198-EBB8-430C-976F-9B8C32722AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B29198-EBB8-430C-976F-9B8C32722AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B29198-EBB8-430C-976F-9B8C32722AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B29198-EBB8-430C-976F-9B8C32722AC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
