@@ -1,0 +1,12 @@
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\bin\Debug\netcoreapp3.1\006-升级版冒泡排序.exe
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\bin\Debug\netcoreapp3.1\006-升级版冒泡排序.deps.json
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\bin\Debug\netcoreapp3.1\006-升级版冒泡排序.runtimeconfig.json
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\bin\Debug\netcoreapp3.1\006-升级版冒泡排序.runtimeconfig.dev.json
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\bin\Debug\netcoreapp3.1\006-升级版冒泡排序.dll
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\bin\Debug\netcoreapp3.1\006-升级版冒泡排序.pdb
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netcoreapp3.1\006-升级版冒泡排序.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netcoreapp3.1\006-升级版冒泡排序.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netcoreapp3.1\006-升级版冒泡排序.csproj.CoreCompileInputs.cache
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netcoreapp3.1\006-升级版冒泡排序.dll
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netcoreapp3.1\006-升级版冒泡排序.pdb
+D:\C-\高级\C Sharp教程（高级）\006-升级版冒泡排序\obj\Debug\netcoreapp3.1\006-升级版冒泡排序.genruntimeconfig.cache
