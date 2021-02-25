@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004-委托", "004-委托\00
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005-Action和Func委托", "Action委托\005-Action和Func委托.csproj", "{94B29198-EBB8-430C-976F-9B8C32722AC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006-升级版冒泡排序", "006-升级版冒泡排序\006-升级版冒泡排序.csproj", "{9E2C6C75-2F3E-4A20-9FAA-32C04D8DB4B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006-升级版冒泡排序", "006-升级版冒泡排序\006-升级版冒泡排序.csproj", "{9E2C6C75-2F3E-4A20-9FAA-32C04D8DB4B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007-多播委托", "007-多播委托\007-多播委托.csproj", "{833F8A98-B636-4363-B70E-88B95EC24C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "匿名方法", "匿名方法\匿名方法.csproj", "{AA12FE69-45D7-410D-B2F1-4B4FFFB89A6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{9E2C6C75-2F3E-4A20-9FAA-32C04D8DB4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E2C6C75-2F3E-4A20-9FAA-32C04D8DB4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E2C6C75-2F3E-4A20-9FAA-32C04D8DB4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833F8A98-B636-4363-B70E-88B95EC24C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833F8A98-B636-4363-B70E-88B95EC24C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833F8A98-B636-4363-B70E-88B95EC24C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833F8A98-B636-4363-B70E-88B95EC24C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA12FE69-45D7-410D-B2F1-4B4FFFB89A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA12FE69-45D7-410D-B2F1-4B4FFFB89A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA12FE69-45D7-410D-B2F1-4B4FFFB89A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA12FE69-45D7-410D-B2F1-4B4FFFB89A6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
