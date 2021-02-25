@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C#语言（初级+中级+高级+数据结构+算法）教程\\高级\\C Sharp教程（高级）\\匿名方法\\008-匿名方法.csproj",
-      "projectName": "008-匿名方法",
-      "projectPath": "H:\\C#语言（初级+中级+高级+数据结构+算法）教程\\高级\\C Sharp教程（高级）\\匿名方法\\008-匿名方法.csproj",
+      "projectUniqueName": "H:\\C#语言（初级+中级+高级+数据结构+算法）教程\\高级\\C Sharp教程（高级）\\009-事件\\009-事件.csproj",
+      "projectName": "009-事件",
+      "projectPath": "H:\\C#语言（初级+中级+高级+数据结构+算法）教程\\高级\\C Sharp教程（高级）\\009-事件\\009-事件.csproj",
       "packagesPath": "C:\\Users\\chenjianfeng\\.nuget\\packages\\",
-      "outputPath": "H:\\C#语言（初级+中级+高级+数据结构+算法）教程\\高级\\C Sharp教程（高级）\\匿名方法\\obj\\",
+      "outputPath": "H:\\C#语言（初级+中级+高级+数据结构+算法）教程\\高级\\C Sharp教程（高级）\\009-事件\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chenjianfeng\\AppData\\Roaming\\NuGet\\NuGet.Config",
