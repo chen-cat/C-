@@ -46,14 +46,57 @@ namespace _011_LINQ
             }*/
 
             //使用LINQ
-            var res = from m in masterList
-                      where m.Level > 8
-                      select m;
+            /*var res = from m in masterList//from后面设置查询的集合
+                      where m.Level > 8 &&m.Menpai =="丐帮"//查询条件，过滤的作用
+                      select m;//表示m的结果结合返回*/
+
+            //扩展方法的写法
+            //var res = masterList.Where(Text);//1、使用带返回值的委托方法Text，遍历masterList，获得符合Text方法返回ture的参数
+            //var res = masterList.Where(m => m.Level > 8);//使用lambda表达式，减少委托方法的定义。m是masterList类型的形参
+            var res = masterList.Where(m => m.Level > 8 && m.Menpai =="丐帮");//使用两个判断，用&&来连接
             foreach (var item in res)
+            {
+                //Console.WriteLine(item);
+            }
+
+            //使用LINQ联合查询（查询两个集合），输出杀伤力大于90的武林高手
+            /*var res1 = from m in masterList
+                       from k in kongfuList
+                       where m.Kongfu == k.Name && k.Power > 90
+                       //select new { masterList = m,kongfuList = k};//生成一个新的集合
+                       select m;*/
+            //扩展方法的写法
+            var res1 = masterList.SelectMany(m => kongfuList, (m, k) => new { master = m, kongfu = k }).Where(x => x.master.Kongfu == x.kongfu.Name && x.kongfu.Power > 90);
+            foreach (var item in res1)
+            {
+                //Console.WriteLine(item);
+            }
+
+            //使用LINQ对查询结果进行排序orderby(从小到大)
+            /*var res2 = from m in masterList
+                       where m.Level > 8 && m.Menpai == "丐帮"
+                       //orderby m.Age,m.Level;//从小到大,按照多个字段进行排序，如果第一个字段相同，再按照第二个字段排序
+                        orderby m.Age descending//从大到小
+                       //select new { masterList = m,kongfuList = k};//生成一个新的集合
+                       select m;*/
+            var res2 = masterList.Where(m => m.Level > 8 && m.Menpai == "丐帮").OrderBy(m => m.Age).ThenBy(m =>m.Level);//多个字段用.ThenBy
+            foreach (var item in res2)
             {
                 Console.WriteLine(item);
             }
 
+
+            //扩展方法的带返回值的委托方法
+            static bool Text(MartialArtsMaster m)
+            {
+                if (m.Level>8)
+                {
+                    return true;
+                }
+                return false;
+            }
+
+            Console.ReadKey();
         }
     }
 }
