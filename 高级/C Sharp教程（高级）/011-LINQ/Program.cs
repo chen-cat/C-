@@ -79,11 +79,44 @@ namespace _011_LINQ
                         orderby m.Age descending//从大到小
                        //select new { masterList = m,kongfuList = k};//生成一个新的集合
                        select m;*/
-            var res2 = masterList.Where(m => m.Level > 8 && m.Menpai == "丐帮").OrderBy(m => m.Age).ThenBy(m =>m.Level);//多个字段用.ThenBy
+            //扩展方法
+            //var res2 = masterList.Where(m => m.Level > 8 && m.Menpai == "丐帮").OrderBy(m => m.Age).ThenBy(m =>m.Level);//多个字段用.ThenBy
+            //使用join on 集合联合查询
+            var res2 = from m in masterList
+                       join k in kongfuList on m.Kongfu equals k.Name//from联合第一个集合，join联合第二个集合，on用来判断联合条件，where添加过滤条件
+                       where k.Power>95
+                       select new { master = m, kongfu = k };
             foreach (var item in res2)
             {
-                Console.WriteLine(item);
+                //Console.WriteLine(item);
             }
+            //分组查询into groups（把武林高手按照所学功夫分类，看一下那个功夫修炼的人数最多）
+            var res3 = from k in kongfuList//这里from接的是kongfuList，因为这里要考虑一对多的关系，多个武林高手学习一门功夫
+                       join m in masterList on k.Name equals m.Kongfu
+                       into groups//这一句代表创建了一个新的集合
+                       orderby groups.Count()//以groups的元素个数进行从小到大排序
+                       select new { kongfu = k, count = groups.Count() };//groups.Count()获得新集合的元素个数
+            foreach (var item in res3)
+            {
+                //Console.WriteLine(item);
+            }
+
+            //按照自身字段进行分组group（只有一个集合），查找同一个门派的分别有多少人
+            var res4 = from m in masterList
+                       group m by m.Menpai//by后面接的是分组的条件
+                       into groups//into接的是分类后生成的集合
+                       orderby groups.Count()
+                       select new { count = groups.Count(), k = groups.Key };//获取集合的元素个数，groups.Key代表这个集合的分类条件
+            foreach (var item in res4)
+            {
+                //Console.WriteLine(item);
+            }
+
+            //使用量词操作符any，all判断集合中是否满足某个条件
+            bool b1 =  masterList.Any(m => m.Menpai == "丐帮");//.Any(带返回值的委托)，判断m集合里面是否有一个或以上的元素满足丐帮的，有返回true
+            Console.WriteLine(b1);
+            bool b2 = masterList.All(m => m.Menpai == "丐帮");//.All(带返回值的委托)，判断m集合里面是否所以的元素都满足丐帮的，是返回true
+            Console.WriteLine(b2);
 
 
             //扩展方法的带返回值的委托方法
