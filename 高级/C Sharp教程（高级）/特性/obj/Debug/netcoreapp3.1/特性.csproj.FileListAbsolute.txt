@@ -1,0 +1,12 @@
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\bin\Debug\netcoreapp3.1\特性.exe
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\bin\Debug\netcoreapp3.1\特性.deps.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\bin\Debug\netcoreapp3.1\特性.runtimeconfig.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\bin\Debug\netcoreapp3.1\特性.runtimeconfig.dev.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\bin\Debug\netcoreapp3.1\特性.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\bin\Debug\netcoreapp3.1\特性.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\obj\Debug\netcoreapp3.1\特性.AssemblyInfoInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\obj\Debug\netcoreapp3.1\特性.AssemblyInfo.cs
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\obj\Debug\netcoreapp3.1\特性.csproj.CoreCompileInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\obj\Debug\netcoreapp3.1\特性.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\obj\Debug\netcoreapp3.1\特性.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\特性\obj\Debug\netcoreapp3.1\特性.genruntimeconfig.cache
