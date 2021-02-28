@@ -5,6 +5,8 @@ using System.Runtime.CompilerServices;
 
 namespace 特性
 {
+    //当我们使用特性的时候，后面的Attribute不需要写（这里调用的是MyTestAttribute特性类）
+    [MyTest("简单的特性类",ID =100)]//"简单的特性类"是MyTestAttribute特性类构造函数的形参，如果构造方法没有别的属性，但这时候又想使用别的属性，可以直接使用ID =100来赋值
     class Program
     {
         //[Obsolete]//Obsolete特性代表这个方法过时了
@@ -57,6 +59,11 @@ namespace 特性
             Method("调用者信息特性");
 
             Method1();
+            //利用反射获取一个Program的type对象
+            Type type = typeof(Program);
+            Object[]  array= type.GetCustomAttributes(false);//获取type对象所有使用的特性，false表示是否搜索继承的类所使用的特性
+            MyTestAttribute m = array[0] as MyTestAttribute;
+            Console.WriteLine(m.ID);
 
             Console.ReadKey();
         }

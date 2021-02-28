@@ -11,3 +11,16 @@ D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3
 D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.pdb
 D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.genruntimeconfig.cache
 D:\C-\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.csprojAssemblyReference.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.exe
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.deps.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.runtimeconfig.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.runtimeconfig.dev.json
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\bin\Debug\netcoreapp3.1\003-正则表达式.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.csprojAssemblyReference.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.AssemblyInfoInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.AssemblyInfo.cs
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.csproj.CoreCompileInputs.cache
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.dll
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.pdb
+H:\C#语言（初级+中级+高级+数据结构+算法）教程\高级\C Sharp教程（高级）\003-正则表达式\obj\Debug\netcoreapp3.1\003-正则表达式.genruntimeconfig.cache
