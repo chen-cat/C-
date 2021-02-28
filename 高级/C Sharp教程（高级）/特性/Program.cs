@@ -1,6 +1,7 @@
 ﻿//#define IsText1//定义一个宏
 using System;
 using System.Diagnostics;
+using System.Runtime.CompilerServices;
 
 namespace 特性
 {
@@ -28,6 +29,22 @@ namespace 特性
         {
             Console.WriteLine("Text2");
         }
+
+        static void Method(string s, [CallerFilePath] string filePath = "", [CallerLineNumber] int lineNumber = 0,[CallerMemberName] string member = "")//调用者信息特性：1、[CallerFilePath]文件路径 2、[CallerLineNumber]调用代码行数 3、[CallerMemberName]调用成员的名称
+        {
+            Console.WriteLine(s);
+            Console.WriteLine(filePath);//参数是由系统传递过来的
+            Console.WriteLine(lineNumber);
+            Console.WriteLine(member);
+        }
+
+        //在单步调试的时候，我们不希望调试器进入某些方法，可以[DebuggerStepThrough]特性来跳过调试
+        //[DebuggerStepThrough]
+        static void Method1()
+        {
+            Console.WriteLine("[DebuggerStepThrough]特性");
+        }
+
         static void Main(string[] args)
         {
             OldMethod();
@@ -36,6 +53,10 @@ namespace 特性
             Text2();
             Text1();
             Text1();
+
+            Method("调用者信息特性");
+
+            Method1();
 
             Console.ReadKey();
         }
