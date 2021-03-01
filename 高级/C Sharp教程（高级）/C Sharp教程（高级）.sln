@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010-观察者模式", "010-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011-LINQ", "011-LINQ\011-LINQ.csproj", "{61FBCA19-396F-4BE4-A3DF-C8DD4406AEBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012-反射", "反射和特性\012-反射.csproj", "{6B646E3A-570A-476B-9635-3E88F599F22A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012-反射", "反射和特性\012-反射.csproj", "{6B646E3A-570A-476B-9635-3E88F599F22A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013-特性", "特性\013-特性.csproj", "{B2F10484-F56F-40B5-A775-1D8ED436AC1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013-特性", "特性\013-特性.csproj", "{B2F10484-F56F-40B5-A775-1D8ED436AC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014-线程-委托方式发起线程", "014-线程-委托方式发起线程\014-线程-委托方式发起线程.csproj", "{2FC093F8-19C8-4EDC-B302-76EFDDF8BCE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{B2F10484-F56F-40B5-A775-1D8ED436AC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2F10484-F56F-40B5-A775-1D8ED436AC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2F10484-F56F-40B5-A775-1D8ED436AC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC093F8-19C8-4EDC-B302-76EFDDF8BCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC093F8-19C8-4EDC-B302-76EFDDF8BCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC093F8-19C8-4EDC-B302-76EFDDF8BCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC093F8-19C8-4EDC-B302-76EFDDF8BCE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
