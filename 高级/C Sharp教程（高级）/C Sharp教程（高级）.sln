@@ -33,7 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013-特性", "特性\013-�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "014-线程-委托方式发起线程", "014-线程-委托方式发起线程\014-线程-委托方式发起线程.csproj", "{2FC093F8-19C8-4EDC-B302-76EFDDF8BCE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015-线程-通过Thread发起线程", "015-线程-通过Thread发起线程\015-线程-通过Thread发起线程.csproj", "{2D7E4534-E758-4647-AF44-16906898FAE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "015-线程-通过Thread发起线程", "015-线程-通过Thread发起线程\015-线程-通过Thread发起线程.csproj", "{2D7E4534-E758-4647-AF44-16906898FAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016-线程-通过线程池发起线程", "016-线程-通过线程池发起线程\016-线程-通过线程池发起线程.csproj", "{5A0ABB24-1800-4C87-BF07-1E1327609A06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017-线程-通过任务发起线程", "017-线程-通过任务发起线程\017-线程-通过任务发起线程.csproj", "{651DFE27-8A87-4B64-A805-28694AFBD595}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{2D7E4534-E758-4647-AF44-16906898FAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D7E4534-E758-4647-AF44-16906898FAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D7E4534-E758-4647-AF44-16906898FAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0ABB24-1800-4C87-BF07-1E1327609A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0ABB24-1800-4C87-BF07-1E1327609A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0ABB24-1800-4C87-BF07-1E1327609A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0ABB24-1800-4C87-BF07-1E1327609A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651DFE27-8A87-4B64-A805-28694AFBD595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651DFE27-8A87-4B64-A805-28694AFBD595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651DFE27-8A87-4B64-A805-28694AFBD595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651DFE27-8A87-4B64-A805-28694AFBD595}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

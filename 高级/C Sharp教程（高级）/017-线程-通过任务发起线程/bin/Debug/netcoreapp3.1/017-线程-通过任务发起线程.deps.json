@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "017-线程-通过任务发起线程/1.0.0": {
+        "runtime": {
+          "017-线程-通过任务发起线程.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "017-线程-通过任务发起线程/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\bin\Debug\netcoreapp3.1\017-线程-通过任务发起线程.exe
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\bin\Debug\netcoreapp3.1\017-线程-通过任务发起线程.deps.json
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\bin\Debug\netcoreapp3.1\017-线程-通过任务发起线程.runtimeconfig.json
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\bin\Debug\netcoreapp3.1\017-线程-通过任务发起线程.runtimeconfig.dev.json
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\bin\Debug\netcoreapp3.1\017-线程-通过任务发起线程.dll
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\bin\Debug\netcoreapp3.1\017-线程-通过任务发起线程.pdb
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\obj\Debug\netcoreapp3.1\017-线程-通过任务发起线程.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\obj\Debug\netcoreapp3.1\017-线程-通过任务发起线程.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\obj\Debug\netcoreapp3.1\017-线程-通过任务发起线程.csproj.CoreCompileInputs.cache
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\obj\Debug\netcoreapp3.1\017-线程-通过任务发起线程.dll
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\obj\Debug\netcoreapp3.1\017-线程-通过任务发起线程.pdb
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\obj\Debug\netcoreapp3.1\017-线程-通过任务发起线程.genruntimeconfig.cache
+D:\C-\高级\C Sharp教程（高级）\017-线程-通过任务发起线程\obj\Debug\netcoreapp3.1\017-线程-通过任务发起线程.csprojAssemblyReference.cache

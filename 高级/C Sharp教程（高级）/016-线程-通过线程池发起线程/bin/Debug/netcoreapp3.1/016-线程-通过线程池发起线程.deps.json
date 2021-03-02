@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "016-线程-通过线程池发起线程/1.0.0": {
+        "runtime": {
+          "016-线程-通过线程池发起线程.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "016-线程-通过线程池发起线程/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
