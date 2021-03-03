@@ -1,0 +1,13 @@
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\bin\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.exe
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\bin\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.deps.json
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\bin\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.runtimeconfig.json
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\bin\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.runtimeconfig.dev.json
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\bin\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.dll
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\bin\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.pdb
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\obj\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.csprojAssemblyReference.cache
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\obj\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\obj\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\obj\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.csproj.CoreCompileInputs.cache
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\obj\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.dll
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\obj\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.pdb
+D:\C-\高级\C Sharp教程（高级）\020-Socket编程-tcp客户端\020-Socket编程-tcp客户端\obj\Debug\netcoreapp3.1\020-Socket编程-tcp客户端.genruntimeconfig.cache

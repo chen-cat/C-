@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "019-Socket编程-tcp服务器端/1.0.0": {
+        "runtime": {
+          "019-Socket编程-tcp服务器端.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "019-Socket编程-tcp服务器端/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
