@@ -1,0 +1,13 @@
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\bin\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.exe
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\bin\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.deps.json
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\bin\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.runtimeconfig.json
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\bin\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.runtimeconfig.dev.json
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\bin\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.dll
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\bin\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.pdb
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\obj\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\obj\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\obj\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.csproj.CoreCompileInputs.cache
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\obj\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.dll
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\obj\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.pdb
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\obj\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.genruntimeconfig.cache
+D:\C-\高级\C Sharp教程（高级）\018-线程问题-争用条件和死锁\obj\Debug\netcoreapp3.1\018-线程问题-争用条件和死锁.csprojAssemblyReference.cache
