@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "021-聊天室-tcp服务器端/1.0.0": {
+        "runtime": {
+          "021-聊天室-tcp服务器端.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "021-聊天室-tcp服务器端/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
