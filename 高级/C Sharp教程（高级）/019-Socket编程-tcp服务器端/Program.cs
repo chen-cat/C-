@@ -7,10 +7,11 @@ namespace _019_Socket编程_tcp服务器端
 {
     class Program
     {
+        //tcp保证数据正确性，udp可能丢包；tcp保证数据顺序,udp不保证
         static void Main(string[] args)
         {
             //创建Socket
-            Socket tcpServer = new Socket(AddressFamily.InterNetwork,SocketType.Stream,ProtocolType.Tcp);
+            Socket tcpServer = new Socket(AddressFamily.InterNetwork,SocketType.Stream,ProtocolType.Tcp);//Stream是流模式
             //地址用byte类型
             IPAddress ipadress = new IPAddress(new byte[] { 10,18,19,232 });
             //IPEndPoint需要传入地址和端口。地址可以理解为连接设备（电脑），端口可以理解为连接软件

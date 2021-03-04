@@ -39,11 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "016-线程-通过线程池�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "017-线程-通过任务发起线程", "017-线程-通过任务发起线程\017-线程-通过任务发起线程.csproj", "{651DFE27-8A87-4B64-A805-28694AFBD595}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018-线程问题-争用条件和死锁", "018-线程问题-争用条件和死锁\018-线程问题-争用条件和死锁.csproj", "{864B30B6-01D1-4CFD-B1B7-EBE1E8BDA11D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "018-线程问题-争用条件和死锁", "018-线程问题-争用条件和死锁\018-线程问题-争用条件和死锁.csproj", "{864B30B6-01D1-4CFD-B1B7-EBE1E8BDA11D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019-Socket编程-tcp服务器端", "019-Socket编程-tcp服务器端\019-Socket编程-tcp服务器端.csproj", "{8D85FA38-FBFF-4058-93B6-67BF2CAAD433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "019-Socket编程-tcp服务器端", "019-Socket编程-tcp服务器端\019-Socket编程-tcp服务器端.csproj", "{8D85FA38-FBFF-4058-93B6-67BF2CAAD433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021-聊天室-tcp服务器端", "021-聊天室-tcp服务器端\021-聊天室-tcp服务器端.csproj", "{DA4914F1-5178-4BC1-8189-FBD28FCCC131}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "021-聊天室-tcp服务器端", "021-聊天室-tcp服务器端\021-聊天室-tcp服务器端.csproj", "{DA4914F1-5178-4BC1-8189-FBD28FCCC131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023-Socket-udp服务端", "023-Socket-udp服务端\023-Socket-udp服务端.csproj", "{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{DA4914F1-5178-4BC1-8189-FBD28FCCC131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA4914F1-5178-4BC1-8189-FBD28FCCC131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA4914F1-5178-4BC1-8189-FBD28FCCC131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
