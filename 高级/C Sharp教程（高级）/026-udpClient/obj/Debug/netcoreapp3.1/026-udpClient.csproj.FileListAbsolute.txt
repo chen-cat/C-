@@ -1,0 +1,12 @@
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\bin\Debug\netcoreapp3.1\026-udpClient.exe
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\bin\Debug\netcoreapp3.1\026-udpClient.deps.json
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\bin\Debug\netcoreapp3.1\026-udpClient.runtimeconfig.json
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\bin\Debug\netcoreapp3.1\026-udpClient.runtimeconfig.dev.json
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\bin\Debug\netcoreapp3.1\026-udpClient.dll
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\bin\Debug\netcoreapp3.1\026-udpClient.pdb
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\obj\Debug\netcoreapp3.1\026-udpClient.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\obj\Debug\netcoreapp3.1\026-udpClient.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\obj\Debug\netcoreapp3.1\026-udpClient.csproj.CoreCompileInputs.cache
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\obj\Debug\netcoreapp3.1\026-udpClient.dll
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\obj\Debug\netcoreapp3.1\026-udpClient.pdb
+D:\C-\高级\C Sharp教程（高级）\026-udpClient\obj\Debug\netcoreapp3.1\026-udpClient.genruntimeconfig.cache

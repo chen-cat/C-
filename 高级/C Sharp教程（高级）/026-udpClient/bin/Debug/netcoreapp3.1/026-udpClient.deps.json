@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "026-udpClient/1.0.0": {
+        "runtime": {
+          "026-udpClient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "026-udpClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

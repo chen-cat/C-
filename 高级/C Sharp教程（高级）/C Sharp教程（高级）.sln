@@ -45,7 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "019-Socket编程-tcp服务�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "021-聊天室-tcp服务器端", "021-聊天室-tcp服务器端\021-聊天室-tcp服务器端.csproj", "{DA4914F1-5178-4BC1-8189-FBD28FCCC131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023-Socket-udp服务端", "023-Socket-udp服务端\023-Socket-udp服务端.csproj", "{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "023-Socket-udp服务端", "023-Socket-udp服务端\023-Socket-udp服务端.csproj", "{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024-tcpListener", "024-tcpListener\024-tcpListener.csproj", "{21511502-8EBB-4006-989D-FE48680FE8F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "026-udpClient", "026-udpClient\026-udpClient.csproj", "{33D09D42-F776-446A-AE45-9908BB870EC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21511502-8EBB-4006-989D-FE48680FE8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21511502-8EBB-4006-989D-FE48680FE8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21511502-8EBB-4006-989D-FE48680FE8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21511502-8EBB-4006-989D-FE48680FE8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D09D42-F776-446A-AE45-9908BB870EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D09D42-F776-446A-AE45-9908BB870EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D09D42-F776-446A-AE45-9908BB870EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D09D42-F776-446A-AE45-9908BB870EC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

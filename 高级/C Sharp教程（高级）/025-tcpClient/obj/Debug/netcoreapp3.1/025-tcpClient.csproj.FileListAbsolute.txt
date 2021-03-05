@@ -1,0 +1,13 @@
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\bin\Debug\netcoreapp3.1\025-tcpClient.exe
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\bin\Debug\netcoreapp3.1\025-tcpClient.deps.json
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\bin\Debug\netcoreapp3.1\025-tcpClient.runtimeconfig.json
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\bin\Debug\netcoreapp3.1\025-tcpClient.runtimeconfig.dev.json
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\bin\Debug\netcoreapp3.1\025-tcpClient.dll
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\bin\Debug\netcoreapp3.1\025-tcpClient.pdb
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\obj\Debug\netcoreapp3.1\025-tcpClient.csprojAssemblyReference.cache
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\obj\Debug\netcoreapp3.1\025-tcpClient.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\obj\Debug\netcoreapp3.1\025-tcpClient.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\obj\Debug\netcoreapp3.1\025-tcpClient.csproj.CoreCompileInputs.cache
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\obj\Debug\netcoreapp3.1\025-tcpClient.dll
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\obj\Debug\netcoreapp3.1\025-tcpClient.pdb
+D:\C-\高级\C Sharp教程（高级）\025-tcpClient\obj\Debug\netcoreapp3.1\025-tcpClient.genruntimeconfig.cache

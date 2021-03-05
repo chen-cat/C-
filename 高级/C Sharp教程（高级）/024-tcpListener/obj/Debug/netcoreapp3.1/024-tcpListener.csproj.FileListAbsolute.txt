@@ -1,0 +1,12 @@
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\bin\Debug\netcoreapp3.1\024-tcpListener.exe
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\bin\Debug\netcoreapp3.1\024-tcpListener.deps.json
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\bin\Debug\netcoreapp3.1\024-tcpListener.runtimeconfig.json
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\bin\Debug\netcoreapp3.1\024-tcpListener.runtimeconfig.dev.json
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\bin\Debug\netcoreapp3.1\024-tcpListener.dll
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\bin\Debug\netcoreapp3.1\024-tcpListener.pdb
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\obj\Debug\netcoreapp3.1\024-tcpListener.AssemblyInfoInputs.cache
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\obj\Debug\netcoreapp3.1\024-tcpListener.AssemblyInfo.cs
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\obj\Debug\netcoreapp3.1\024-tcpListener.csproj.CoreCompileInputs.cache
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\obj\Debug\netcoreapp3.1\024-tcpListener.dll
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\obj\Debug\netcoreapp3.1\024-tcpListener.pdb
+D:\C-\高级\C Sharp教程（高级）\024-tcpListener\obj\Debug\netcoreapp3.1\024-tcpListener.genruntimeconfig.cache
