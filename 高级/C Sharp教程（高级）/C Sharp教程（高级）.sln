@@ -47,9 +47,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "021-聊天室-tcp服务器�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "023-Socket-udp服务端", "023-Socket-udp服务端\023-Socket-udp服务端.csproj", "{13D89F5A-F7AD-4260-ABCA-42D2D14BEE77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024-tcpListener", "024-tcpListener\024-tcpListener.csproj", "{21511502-8EBB-4006-989D-FE48680FE8F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "024-tcpListener", "024-tcpListener\024-tcpListener.csproj", "{21511502-8EBB-4006-989D-FE48680FE8F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "026-udpClient", "026-udpClient\026-udpClient.csproj", "{33D09D42-F776-446A-AE45-9908BB870EC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "026-udpClient", "026-udpClient\026-udpClient.csproj", "{33D09D42-F776-446A-AE45-9908BB870EC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028-文件操作-FileInfo、DirectoryInfo", "028-文件操作-FileInfo、DirectoryInfo\028-文件操作-FileInfo、DirectoryInfo.csproj", "{1C52ABE0-865E-4303-817A-538A537ACD9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029-使用FIle读写文件", "029-使用FIle读写文件\029-使用FIle读写文件.csproj", "{E65A071B-84BD-497A-9EC7-B69600C310E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,14 @@ Global
 		{33D09D42-F776-446A-AE45-9908BB870EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33D09D42-F776-446A-AE45-9908BB870EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33D09D42-F776-446A-AE45-9908BB870EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C52ABE0-865E-4303-817A-538A537ACD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C52ABE0-865E-4303-817A-538A537ACD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C52ABE0-865E-4303-817A-538A537ACD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C52ABE0-865E-4303-817A-538A537ACD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65A071B-84BD-497A-9EC7-B69600C310E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65A071B-84BD-497A-9EC7-B69600C310E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65A071B-84BD-497A-9EC7-B69600C310E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65A071B-84BD-497A-9EC7-B69600C310E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
